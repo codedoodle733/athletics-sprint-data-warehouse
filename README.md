@@ -14,7 +14,7 @@ Develop a modern data warehouse using SQL Server to consolidate Athletics data (
 #### Specifications
 - **Data Sources**: 
   1. Datasets consist of 100m and 4x100m relay data across local and overseas competition.
-  2. Datasets were curated from generative AI with the user's input on calendar year in athletics/track & field along.
+  2. Datasets (i.e., names, country, clubs, results, competitions events) were curated from generative AI. 
   3. All Datasets are provided as CSV Files
 
 - **Data Quality**: cleanse and resolve data quality prior to analysis.
