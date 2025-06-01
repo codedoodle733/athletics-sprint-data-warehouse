@@ -1,4 +1,4 @@
-# Athletics-Sprints-Data-Warehouse Project
+# Athletics Sprints Data Warehouse Project
 
 This project demonstrates a data warehousing and analytics solution, from building a data warehouse to generating actionable insights. 
 
