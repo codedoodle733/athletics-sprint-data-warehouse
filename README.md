@@ -27,10 +27,10 @@ Develop a modern data warehouse using SQL Server to consolidate Athletics data (
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
-  1.) Tack athlete/team improvements: personal best progressions, seasonal best;
-  2.) Identify talent and record breakers: acquire top performers and near-record performances;
-  3.) Analyse by sex/category: trends by Men/Women, U15, U18, U20/open;
-  4.) Stakeholder reporting: athletes qualifying for overseas competitions, club rankings, relay performance progressions.
+- **Tack athlete/team improvements**: personal best progressions, seasonal best;
+- **Identify talent and record breakers**: acquire top performers and near-record performances;
+- **Analyse by sex/category**: trends by Men/Women, U15, U18, U20/open;
+- **Stakeholder reporting**: athletes qualifying for overseas competitions, club rankings, relay performance progressions.
 
 ---
 
