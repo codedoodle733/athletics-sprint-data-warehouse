@@ -1,0 +1,13 @@
+﻿id,first_name,last_name,full_name,sex,nationality,club,competition_name,date_event,event,category,heat_number,results,wind_factor,format,rank
+1,Carter,Brooks,Carter Brooks,Men,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-25,100m,U15,2,11.69,0.8,Heats,5
+2,Declan,Fox,Declan Fox,Men,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-25,100m,U15,3,11.74,0.8,Heats,6
+3,Milo,Vance,Milo Vance,Men,Aelthoria,Sylvara Athletics Club,Little Athletics  Championships,2025-03-25,100m,U15,4,11.79,0.8,Heats,7
+4,Avery,Blair,Avery Blair,Women,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-25,100m,U15,4,13.49,0.8,Heats,7
+5,Carter,Brooks,Carter Brooks,Men,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-25,100m,U15,1,11.68,0.7,Semifinals,5
+6,Declan,Fox,Declan Fox,Men,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-25,100m,U15,2,11.73,0.7,Semifinals,6
+7,Milo,Vance,Milo Vance,Men,Aelthoria,Sylvara Athletics Club,Little Athletics  Championships,2025-03-25,100m,U15,3,11.78,0.7,Semifinals,7
+8,Avery,Blair,Avery Blair,Women,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-25,100m,U15,3,13.48,0.7,Semifinals,5
+9,Carter,Brooks,Carter Brooks,Men,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-26,100m,U15,,11.28,0.2,Finals,2
+10,Declan,Fox,Declan Fox,Men,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-26,100m,U15,,11.32,0.2,Finals,3
+11,Milo,Vance,Milo Vance,Men,Aelthoria,Sylvara Athletics Club,Little Athletics  Championships,2025-03-26,100m,U15,,11.37,0.2,Finals,4
+12,Avery,Blair,Avery Blair,Women,Aelthoria,Eldrin Athletics Club,Little Athletics  Championships,2025-03-26,100m,U15,,13.01,0.2,Finals,4

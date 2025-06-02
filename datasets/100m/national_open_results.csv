@@ -1,0 +1,150 @@
+﻿id,first_name,last_name,full_name,sex,dob,nationality,club,competition_name,date_meet,event,category,heat_number,results,wind_factor,format
+1,Ace,Burton,Ace Burton,Men,2006-05-12,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.32,0.3,Heats
+2,Hawk,Jasper,Hawk Jasper,Men,2006-01-08,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,5,10.37,0.2,Heats
+3,Pax,River,Pax River,Men,2006-12-14,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.42,0.3,Heats
+4,Bryce,Adler,Bryce Adler,Men,1998-05-12,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.34,0.6,Heats
+5,Kane,Irwin,Kane Irwin,Men,1996-01-08,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.39,0.4,Heats
+6,Vance,Quill,Vance Quill,Men,1999-12-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,4,10.44,0.1,Heats
+7,Ford,Xavier,Ford Xavier,Men,2003-02-22,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,5,10.49,0.2,Heats
+8,Cole,Baxter,Cole Baxter,Men,2000-08-23,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.49,0.4,Heats
+9,Levi,Jaxon,Levi Jaxon,Men,2004-04-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.54,0.6,Heats
+10,Nico,Finn,Nico Finn,Men,1997-09-08,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,4,10.54,0.1,Heats
+11,Lane,Tate,Lane Tate,Men,2002-02-14,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,5,10.39,0.2,Heats
+12,Cade,Gale,Cade Gale,Men,2002-06-30,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,6,10.39,0.1,Heats
+13,Tyson,Sage,Tyson Sage,Men,2002-04-07,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,6,10.39,0.1,Heats
+14,Dean,Quinn,Dean Quinn,Men,2002-06-25,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,6,10.39,0.1,Heats
+15,Finn,Wind,Finn Wind,Men,2002-08-19,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.41,0.6,Heats
+16,Pax,Zane,Pax Zane,Men,2000-05-11,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,6,10.59,0.1,Heats
+17,Milo,Strike,Milo Strike,Men,2000-09-17,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.59,0.3,Heats
+18,Ryker,Chase,Ryker Chase,Men,2000-03-18,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.61,0.4,Heats
+19,Liam,Brown,Liam Brown,Men,2000-08-22,Eldivara,,National Open Championship,2025-06-06,100m,Open,2,10.01,0.6,Heats
+20,Jack,Wilson,Jack Wilson,Men,1997-03-15,Eldivara,,National Open Championship,2025-06-06,100m,Open,6,10.04,0.1,Heats
+21,Ethan,Clark,Ethan Clark,Men,2001-12-12,Auralyth,,National Open Championship,2025-06-06,100m,Open,3,10.02,0.4,Heats
+22,Noah,Harris,Noah Harris,Men,1996-09-05,Auralyth,,National Open Championship,2025-06-06,100m,Open,4,10.05,0.1,Heats
+23,Thomas,King,Thomas King,Men,2003-04-05,Syltharion,,National Open Championship,2025-06-06,100m,Open,5,10.03,0.2,Heats
+24,James,Young,James Young,Men,1995-10-30,Syltharion,,National Open Championship,2025-06-06,100m,Open,1,10.06,0.3,Heats
+25,Derrick,Quinn,Derrick Quinn,Men,2006-05-18,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,5,10.69,0.2,Heats
+26,Larry,Lane,Larry Lane,Men,2006-02-17,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.69,0.6,Heats
+27,Tylor,Sage,Tylor Sage,Men,2006-03-22,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.69,0.4,Heats
+28,Barry,Tate,Barry Tate,Men,2006-02-15,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,4,10.71,0.1,Heats
+29,Theo,Sutton,Theo Sutton,Men,2006-03-27,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,5,10.79,0.2,Heats
+30,Taylor,Surge,Taylor Surge,Men,2006-11-11,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.79,0.3,Heats
+31,Cade,Donovan,Cade Donovan,Men,2006-11-15,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.84,0.3,Heats
+32,Daniel,Adler,Daniel Adler,Men,2006-07-09,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,4,10.85,0.1,Heats
+33,Reid,Flash,Reid Flash,Men,2006-10-13,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.88,0.4,Heats
+34,Jerrick,Strike,Jerrick Strike,Men,2006-08-30,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.88,0.3,Heats
+35,Beau,Flash,Beau Flash,Men,2001-09-14,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,6,10.51,0.1,Heats
+36,Theo,Tate,Theo Tate,Men,2001-11-27,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.51,0.3,Heats
+37,Gideon,York,Gideon York,Men,2001-07-16,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,5,10.51,0.2,Heats
+38,Dane,Carver,Dane Carver,Men,1995-11-15,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.64,0.6,Heats
+39,Grey,Yarrow,Grey Yarrow,Men,1999-07-09,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,6,10.64,0.1,Heats
+40,Sage,Zane,Sage Zane,Men,2000-01-29,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,4,10.61,0.1,Heats
+41,Byron,Flynn,Byron Flynn,Men,2000-01-25,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,5,10.61,0.2,Heats
+42,Pax,Gideon,Pax Gideon,Men,2003-04-24,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.69,0.6,Heats
+43,Evan,Drake,Evan Drake,Men,2002-09-30,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.79,0.4,Heats
+44,Crew,Ellis,Crew Ellis,Men,2003-04-09,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,4,10.71,0.1,Heats
+45,Harry,Ross,Harry Ross,Men,2003-10-24,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.71,0.6,Heats
+46,Nash,Storm,Nash Storm,Men,2003-10-30,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.71,0.4,Heats
+47,Ace,Xander,Ace Xander,Men,2003-01-08,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,4,10.71,0.1,Heats
+48,Ace,Burton,Ace Burton,Men,2006-05-12,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-07,100m,Open,2,10.22,0.6,Semifinals
+49,Hawk,Jasper,Hawk Jasper,Men,2006-01-08,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.19,0.6,Semifinals
+50,Pax,River,Pax River,Men,2006-12-14,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.24,0.4,Semifinals
+51,Bryce,Adler,Bryce Adler,Men,1998-05-12,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.13,0.4,Semifinals
+52,Liam,Brown,Liam Brown,Men,2000-08-22,Eldivara,,National Open Championship,2025-06-06,100m,Open,1,10.19,0.3,Semifinals
+53,Jack,Wilson,Jack Wilson,Men,1997-03-15,Eldivara,,National Open Championship,2025-06-06,100m,Open,3,10.23,0.4,Semifinals
+54,Ethan,Clark,Ethan Clark,Men,2001-12-12,Auralyth,,National Open Championship,2025-06-06,100m,Open,2,10.21,0.6,Semifinals
+55,Noah,Harris,Noah Harris,Men,1996-09-05,Auralyth,,National Open Championship,2025-06-06,100m,Open,2,10.24,0.6,Semifinals
+56,Thomas,King,Thomas King,Men,2003-04-05,Syltharion,,National Open Championship,2025-06-06,100m,Open,3,10.22,0.4,Semifinals
+57,James,Young,James Young,Men,1995-10-30,Syltharion,,National Open Championship,2025-06-06,100m,Open,1,10.25,0.3,Semifinals
+58,Kane,Irwin,Kane Irwin,Men,1996-01-08,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.58,0.4,Semifinals
+59,Vance,Quill,Vance Quill,Men,1999-12-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.63,0.3,Semifinals
+60,Ford,Xavier,Ford Xavier,Men,2003-02-22,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.68,0.6,Semifinals
+61,Cole,Baxter,Cole Baxter,Men,2000-08-23,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.68,0.4,Semifinals
+62,Levi,Jaxon,Levi Jaxon,Men,2004-04-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.73,0.3,Semifinals
+63,Nico,Finn,Nico Finn,Men,1997-09-08,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.73,0.6,Semifinals
+64,Lane,Tate,Lane Tate,Men,2002-02-14,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.58,0.3,Semifinals
+65,Cade,Gale,Cade Gale,Men,2002-06-30,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.58,0.6,Semifinals
+66,Tyson,Sage,Tyson Sage,Men,2002-04-07,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.58,0.4,Semifinals
+67,Dean,Quinn,Dean Quinn,Men,2002-06-25,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,10.58,0.4,Semifinals
+68,Finn,Wind,Finn Wind,Men,2002-08-19,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.6,0.6,Semifinals
+69,Pax,Zane,Pax Zane,Men,2000-05-11,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.78,0.3,Semifinals
+70,Milo,Strike,Milo Strike,Men,2000-09-17,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,2,10.78,0.6,Semifinals
+71,Ryker,Chase,Ryker Chase,Men,2000-03-18,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,1,10.8,0.3,Semifinals
+72,Ace,Burton,Ace Burton,Men,2006-05-12,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-07,100m,Open,,10.03,0.6,Finals
+73,Hawk,Jasper,Hawk Jasper,Men,2006-01-08,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-07,100m,Open,,10.06,0.6,Finals
+74,Pax,River,Pax River,Men,2006-12-14,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-07,100m,Open,,10.11,0.6,Finals
+75,Bryce,Adler,Bryce Adler,Men,1998-05-12,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-07,100m,Open,,10.12,0.6,Finals
+76,Liam,Brown,Liam Brown,Men,2000-08-22,Eldivara,,National Open Championship,2025-06-07,100m,Open,,10.19,0.6,Finals
+77,Jack,Wilson,Jack Wilson,Men,1997-03-15,Eldivara,,National Open Championship,2025-06-07,100m,Open,,10.23,0.6,Finals
+78,Ethan,Clark,Ethan Clark,Men,2001-12-12,Auralyth,,National Open Championship,2025-06-07,100m,Open,,10.21,0.6,Finals
+79,Noah,Harris,Noah Harris,Men,1996-09-05,Auralyth,,National Open Championship,2025-06-07,100m,Open,,10.24,0.6,Finals
+80,Olivia,Taylor,Olivia Taylor,Women,1999-05-10,Eldivara,,National Open Championship,2025-06-06,100m,Open,2,11.01,0.6,Heats
+81,Emma,Smith,Emma Smith,Women,2002-11-20,Eldivara,,National Open Championship,2025-06-06,100m,Open,4,11.02,0.1,Heats
+82,Charlotte,Walker,Charlotte Walker,Women,1998-07-18,Auralyth,,National Open Championship,2025-06-06,100m,Open,3,11.02,0.4,Heats
+83,Ava,Scott,Ava Scott,Women,2005-04-30,Syltharion,,National Open Championship,2025-06-06,100m,Open,5,11.02,0.2,Heats
+84,Mia,Turner,Mia Turner,Women,2000-01-15,Syltharion,,National Open Championship,2025-06-06,100m,Open,1,11.03,0.3,Heats
+85,Sophie,Lewis,Sophie Lewis,Women,2004-02-25,Auralyth,,National Open Championship,2025-06-06,100m,Open,4,11.04,0.1,Heats
+86,Aida,Bloom,Aida Bloom,Women,2006-05-12,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.19,0.3,Heats
+87,Aria,Blaze,Aria Blaze,Women,1998-05-12,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.24,0.3,Heats
+88,Ida,Jade,Ida Jade,Women,2006-01-08,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.24,0.6,Heats
+89,Raya,Sage,Raya Sage,Women,2006-12-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.29,0.3,Heats
+90,Isla,Jinx,Isla Jinx,Women,1996-01-08,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,5,11.34,0.2,Heats
+91,Sarah,Sage,Sarah Sage,Women,1999-12-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.39,0.4,Heats
+92,Yara,Dawn,Yara Dawn,Women,2003-02-22,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,4,11.44,0.1,Heats
+93,Zoe,Eden,Zoe Eden,Women,1999-07-09,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.48,0.6,Heats
+94,Hana,Mira,Hana Mira,Women,2003-04-24,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.52,0.4,Heats
+95,Cali,Drift,Cali Drift,Women,1995-11-15,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,4,11.52,0.1,Heats
+96,Kaya,Lush,Kaya Lush,Women,1998-10-17,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.57,0.4,Heats
+97,Talia,Flash,Talia Flash,Women,2002-05-20,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,4,11.62,0.1,Heats
+98,Lila,Swift,Lila Swift,Women,1997-06-15,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,5,11.62,0.2,Heats
+99,Nora,Bolt,Nora Bolt,Women,2000-11-05,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.62,0.6,Heats
+100,Rhea,Gale,Rhea Gale,Women,1999-04-30,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,4,11.62,0.1,Heats
+101,Piper,Reed,Piper Reed,Women,1998-12-15,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.62,0.4,Heats
+102,Alix,Fae,Alix Fae,Women,2001-08-14,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.67,0.6,Heats
+103,Alice,Eden,Alice Eden,Women,2006-07-09,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.76,0.4,Heats
+104,Ida,Mira,Ida Mira,Women,2006-04-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.81,0.6,Heats
+105,Cami,Dune,Cami Dune,Women,2006-11-15,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.81,0.3,Heats
+106,Kaya,Lark,Kaya Lark,Women,2006-10-17,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,5,11.86,0.2,Heats
+107,Tina,Vale,Tina Vale,Women,2006-03-01,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,4,11.92,0.1,Heats
+108,Aria,Swift,Aria Swift,Women,2006-03-15,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.92,0.6,Heats
+109,Cora,Bolt,Cora Bolt,Women,2006-11-05,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,4,11.92,0.1,Heats
+110,Eden,Reed,Eden Reed,Women,2006-08-15,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.92,0.4,Heats
+111,Faye,Blaze,Faye Blaze,Women,2006-12-10,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.92,0.3,Heats
+112,Gia,Gale,Gia Gale,Women,2006-04-30,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.92,0.3,Heats
+113,Indie,Flash,Indie Flash,Women,2006-05-10,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.92,0.4,Heats
+114,Bryn,Fae,Bryn Fae,Women,2006-08-14,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,4,11.97,0.1,Heats
+115,Jade,Nola,Jade Nola,Women,2006-07-01,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,1,12.02,0.3,Heats
+116,Dina,Ember,Dina Ember,Women,2006-09-30,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,2,12.02,0.6,Heats
+117,Olivia,Taylor,Olivia Taylor,Women,1999-05-10,Eldivara,,National Open Championship,2025-06-06,100m,Open,1,11.2,0.3,Semifinals
+118,Emma,Smith,Emma Smith,Women,2002-11-20,Eldivara,,National Open Championship,2025-06-06,100m,Open,3,11.21,0.4,Semifinals
+119,Charlotte,Walker,Charlotte Walker,Women,1998-07-18,Auralyth,,National Open Championship,2025-06-06,100m,Open,2,11.21,0.6,Semifinals
+120,Ava,Scott,Ava Scott,Women,2005-04-30,Syltharion,,National Open Championship,2025-06-06,100m,Open,2,11.21,0.6,Semifinals
+121,Mia,Turner,Mia Turner,Women,2000-01-15,Syltharion,,National Open Championship,2025-06-06,100m,Open,1,11.22,0.3,Semifinals
+122,Sophie,Lewis,Sophie Lewis,Women,2004-02-25,Auralyth,,National Open Championship,2025-06-06,100m,Open,3,11.23,0.4,Semifinals
+123,Raya,Sage,Raya Sage,Women,2006-12-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.29,0.3,Semifinals
+124,Aida,Bloom,Aida Bloom,Women,2006-05-12,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.43,0.3,Semifinals
+125,Aria,Blaze,Aria Blaze,Women,1998-05-12,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.43,0.6,Semifinals
+126,Ida,Jade,Ida Jade,Women,2006-01-08,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.44,0.3,Semifinals
+127,Isla,Jinx,Isla Jinx,Women,1996-01-08,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.53,0.6,Semifinals
+128,Sarah,Sage,Sarah Sage,Women,1999-12-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.58,0.6,Semifinals
+129,Yara,Dawn,Yara Dawn,Women,2003-02-22,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.63,0.4,Semifinals
+130,Zoe,Eden,Zoe Eden,Women,1999-07-09,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.67,0.3,Semifinals
+131,Hana,Mira,Hana Mira,Women,2003-04-24,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.71,0.6,Semifinals
+132,Cali,Drift,Cali Drift,Women,1995-11-15,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.71,0.4,Semifinals
+133,Kaya,Lush,Kaya Lush,Women,1998-10-17,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.76,0.4,Semifinals
+134,Alice,Eden,Alice Eden,Women,2006-07-09,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.69,0.4,Semifinals
+135,Talia,Flash,Talia Flash,Women,2002-05-20,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.81,0.3,Semifinals
+136,Lila,Swift,Lila Swift,Women,1997-06-15,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,2,11.81,0.6,Semifinals
+137,Nora,Bolt,Nora Bolt,Women,2000-11-05,Aelthoria,Thalindra Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.81,0.4,Semifinals
+138,Rhea,Gale,Rhea Gale,Women,1999-04-30,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.81,0.4,Semifinals
+139,Piper,Reed,Piper Reed,Women,1998-12-15,Aelthoria,Lumora Athletics Club,National Open Championship,2025-06-06,100m,Open,1,11.81,0.3,Semifinals
+140,Alix,Fae,Alix Fae,Women,2001-08-14,Aelthoria,Vyrnwood Athletics Club,National Open Championship,2025-06-06,100m,Open,3,11.86,0.4,Semifinals
+141,Olivia,Taylor,Olivia Taylor,Women,1999-05-10,Eldivara,,National Open Championship,2025-06-07,100m,Open,1,10.99,0.3,Finals
+142,Emma,Smith,Emma Smith,Women,2002-11-20,Eldivara,,National Open Championship,2025-06-07,100m,Open,,11,0.6,Finals
+143,Charlotte,Walker,Charlotte Walker,Women,1998-07-18,Auralyth,,National Open Championship,2025-06-07,100m,Open,,11.01,0.6,Finals
+144,Ava,Scott,Ava Scott,Women,2005-04-30,Syltharion,,National Open Championship,2025-06-07,100m,Open,,11.03,0.6,Finals
+145,Mia,Turner,Mia Turner,Women,2000-01-15,Syltharion,,National Open Championship,2025-06-07,100m,Open,,11.05,0.6,Finals
+146,Sophie,Lewis,Sophie Lewis,Women,2004-02-25,Auralyth,,National Open Championship,2025-06-07,100m,Open,,11.07,0.6,Finals
+147,Raya,Sage,Raya Sage,Women,2006-12-14,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-07,100m,Open,,11.09,0.6,Finals
+148,Aida,Bloom,Aida Bloom,Women,2006-05-12,Aelthoria,Sylvara Athletics Club,National Open Championship,2025-06-07,100m,Open,,11.1,0.6,Finals
+149,Aria,Blaze,Aria Blaze,Women,1998-05-12,Aelthoria,Eldrin Athletics Club,National Open Championship,2025-06-07,100m,Open,,11.1,0.6,Finals

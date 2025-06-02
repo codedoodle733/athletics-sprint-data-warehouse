@@ -1,0 +1,19 @@
+﻿id,first_name,last_name,full_name,sex,nationality,club,competition_name,date,event,category,heat_number,results,wind_factor,format,rank
+1,Ace,Burton,Ace Burton,Men,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,1,10.69,1.4,Heats,9
+2,Hawk,Jasper,Hawk Jasper,Men,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,5,10.74,1.4,Heats,10
+3,Pax,River,Pax River,Men,Aelthoria,Thalindra Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,4,10.79,1.4,Heats,11
+4,Aida,Bloom,Aida Bloom,Women,Aelthoria,Sylvara Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,2,11.59,1.4,Heats,5
+5,Ida,Jade,Ida Jade,Women,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,4,11.64,1.4,Heats,6
+6,Raya,Sage,Raya Sage,Women,Aelthoria,Sylvara Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,6,11.69,1.4,Heats,7
+7,Ace,Burton,Ace Burton,Men,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,1,10.68,1.4,Semifinals,6
+8,Hawk,Jasper,Hawk Jasper,Men,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,2,10.73,1.4,Semifinals,7
+9,Pax,River,Pax River,Men,Aelthoria,Thalindra Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,3,10.78,1.4,Semifinals,8
+10,Aida,Bloom,Aida Bloom,Women,Aelthoria,Sylvara Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,1,11.58,1.4,Semifinals,5
+11,Ida,Jade,Ida Jade,Women,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,2,11.63,1.4,Semifinals,6
+12,Raya,Sage,Raya Sage,Women,Aelthoria,Sylvara Athletics Club,U20 Continental Cup,2025-05-04,100m,U20,3,11.68,1.4,Semifinals,7
+13,Ace,Burton,Ace Burton,Men,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-05,100m,U20,,10.31,1.9,Finals,2
+14,Hawk,Jasper,Hawk Jasper,Men,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-05,100m,U20,,10.36,1.9,Finals,3
+15,Pax,River,Pax River,Men,Aelthoria,Thalindra Athletics Club,U20 Continental Cup,2025-05-05,100m,U20,,10.41,1.9,Finals,4
+16,Aida,Bloom,Aida Bloom,Women,Aelthoria,Sylvara Athletics Club,U20 Continental Cup,2025-05-05,100m,U20,,11.18,1.9,Finals,2
+17,Ida,Jade,Ida Jade,Women,Aelthoria,Eldrin Athletics Club,U20 Continental Cup,2025-05-05,100m,U20,,11.23,1.9,Finals,3
+18,Raya,Sage,Raya Sage,Women,Aelthoria,Sylvara Athletics Club,U20 Continental Cup,2025-05-05,100m,U20,,11.28,1.9,Finals,4

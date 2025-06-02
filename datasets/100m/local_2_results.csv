@@ -1,0 +1,321 @@
+﻿id,first_name,last_name,full_name,sex,dob,nationality,club,competition_name,date_meet,event,category,heat_number,results,wind_factor,format
+1, Theo , Blake, Theo   Blake, Men, 2013-06-22 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U15,1,12.8,0.9,Timed final
+2, Carter, Brooks , Carter  Brooks , Men, 2011-05-12 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U15,1,11.7,0.9,Timed final
+3, Mason, Bolt, Mason  Bolt, Men, 2014-02-18 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,1,12.5,0.9,Timed final
+4, Gage , Quinn, Gage   Quinn, Men, 2012-10-11 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,1,12.6,0.9,Timed final
+5, James, Ridge, James  Ridge, Men, 2011-08-25 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U15,1,12.1,0.9,Timed final
+6, Milo , Vance, Milo   Vance, Men, 2011-08-14 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,1,11.8,0.9,Timed final
+7, Ryder, Stone, Ryder  Stone, Men, 2014-03-02 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,1,12.3,0.9,Timed final
+8, Preston , York, Preston   York, Men, 2012-07-07 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U15,1,12.1,0.9,Timed final
+9, Rowan, Beck, Rowan  Beck, Men, 2011-06-30 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,2,12.4,1.1,Timed final
+10, Wyatt, Cruz, Wyatt  Cruz, Men, 2011-01-31 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,2,13.1,1.1,Timed final
+11, Aiden, Flash, Aiden  Flash, Men, 2012-10-12 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,2,12.5,1.1,Timed final
+12, Kai, Sutton , Kai  Sutton , Men, 2011-12-16 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,2,12.9,1.1,Timed final
+13, Bryce, Tate, Bryce  Tate, Men, 2011-09-10 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U15,2,12.6,1.1,Timed final
+14, Nolan, Wade, Nolan  Wade, Men, 2011-10-03 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,2,11.95,1.1,Timed final
+15, Lucas, Storm, Lucas  Storm, Men, 2011-11-05 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,2,12.1,1.1,Timed final
+16, Finn , Harper , Finn   Harper , Men, 2012-04-17 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,3,12.05,1.3,Timed final
+17, Zane , Kelly, Zane   Kelly, Men, 2011-11-22 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U15,3,11.85,1.3,Timed final
+18, Weston, Hart, Weston  Hart, Men, 2013-04-05 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U15,3,12.85,1.3,Timed final
+19, Liam , Frost, Liam   Frost, Men, 2011-03-15 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,3,12.1,1.3,Timed final
+20, Oliver, Reed, Oliver  Reed, Men, 2012-04-30 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,3,12.5,1.3,Timed final
+21, Hunter, Reid, Hunter  Reid, Men, 2013-01-15 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U15,3,12,1.3,Timed final
+22, Max, Vaughn , Max  Vaughn , Men, 2012-02-24 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U15,3,12.05,1.3,Timed final
+23, Logan, Surge, Logan  Surge, Men, 2013-05-08 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U15,3,12.1,1.3,Timed final
+24,Drake,Johnson,Drake Johnson, Men, 2012-04-23,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U15,4,11.9,1.5,Timed final
+25, Jack , Blaze, Jack   Blaze, Men, 2013-07-15 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,4,12.1,1.5,Timed final
+26, Declan, Fox , Declan  Fox , Men, 2014-01-08 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U15,4,11.75,1.5,Timed final
+27, Brody, Lynch, Brody  Lynch, Men, 2012-01-09 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,4,12,1.5,Timed final
+28, Hayes, Jensen , Hayes  Jensen , Men, 2011-02-28 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,4,12.35,1.5,Timed final
+29, Chase, Morrow , Chase  Morrow , Men, 2013-08-14 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U15,4,12.15,1.5,Timed final
+30, Owen , Xander , Owen   Xander , Men, 2011-07-13 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,4,12.35,1.5,Timed final
+31, Ethan, Swift, Ethan  Swift, Men, 2012-06-22 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,4,12.5,1.5,Timed final
+32,Terry,Joe,Terry Joe, Men, 2011-09-27 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,5,12.66,1.8,Timed final
+33, Noah , Dash, Noah   Dash, Men, 2013-09-10 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U15,5,12.1,1.8,Timed final
+34, Henry, Gale, Henry  Gale, Men, 2014-01-20 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,5,12.5,1.8,Timed final
+35, Easton, Grey, Easton  Grey, Men, 2011-12-14 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U15,5,11.9,1.8,Timed final
+36, Drew , Nolan, Drew   Nolan, Men, 2011-03-27 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U15,5,12.3,1.8,Timed final
+37, Kaden, Ross, Kaden  Ross, Men, 2012-11-11 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,5,12.65,1.8,Timed final
+38, Silas, Zane, Silas  Zane, Men, 2012-12-06 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U15,5,12.65,1.8,Timed final
+39, Levi , Tucker , Levi   Tucker , Men, 2011-09-08 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U15,5,11.9,1.8,Timed final
+40,Isla,Jade,Isla Jade,Women,2013-01-08,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,1,13.6,0.9,Timed final
+41,Juniper,Kane,Juniper Kane,Women,2011-12-14,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,1,13.85,0.9,Timed final
+42,Quinn,Sage,Quinn Sage,Women,2011-08-14,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U15,1,13.7,0.9,Timed final
+43,Sophie,Swift,Sophie Swift,Women,2011-06-10,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U15,1,14.3,0.9,Timed final
+44,Avery,Blair,Avery Blair,Women,2011-05-12,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,1,13.5,0.9,Timed final
+45,Bryn,Carter,Bryn Carter,Women,2012-08-23,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U15,1,13.75,0.9,Timed final
+46,Lily,Dash,Lily Dash,Women,2012-03-15,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U15,1,14.7,0.9,Timed final
+47,Yara,Dell,Yara Dell,Women,2010-11-22,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,1,13.8,0.9,Timed final
+48,Melina,Mira,Melina Mira,Women,2012-02-24,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U15,2,14.15,1.1,Timed final
+49,Kira,Lane,Kira Lane,Women,2012-04-17,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,2,14.1,1.1,Timed final
+50,Mia,Storm,Mia Storm,Women,2011-09-05,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,2,14.7,1.1,Timed final
+51,Rhea,Tate,Rhea Tate,Women,2011-10-03,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,2,13.95,1.1,Timed final
+52,Gia,Lark,Gia Lark,Women,2011-09-08,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,2,13.9,1.1,Timed final
+53,Emma,Bolt,Emma Bolt,Women,2013-07-20,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,2,14.3,1.1,Timed final
+54,Cora,Dixon,Cora Dixon,Women,2013-01-15,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,2,14,1.1,Timed final
+55,Zoe,Echo,Zoe Echo,Women,2012-01-09,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U15,2,14.05,1.1,Timed final
+56,Maeve,Nora,Maeve Nora,Women,2011-02-28,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,3,14.6,1.3,Timed final
+57,Sadie,Vale,Sadie Vale,Women,2012-07-07,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U15,3,14.2,1.3,Timed final
+58,Jade,Opal,Jade Opal,Women,2011-07-13,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,3,14.65,1.3,Timed final
+59,Lila,Moss,Lila Moss,Women,2013-10-05,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U15,3,14.35,1.3,Timed final
+60,Ava,Reed,Ava Reed,Women,2012-11-10,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U15,3,14.3,1.3,Timed final
+61,Olivia,Blaze,Olivia Blaze,Women,2013-04-25,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,3,14.7,1.3,Timed final
+62,Daisy,Ellis,Daisy Ellis,Women,2010-11-30,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,3,14.25,1.3,Timed final
+63,Eden,Faye,Eden Faye,Women,2014-03-02,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U15,3,14.5,1.3,Timed final
+64,Delia,Iris,Delia Iris,Women,2012-10-11,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,4,15.05,1.5,Timed final
+65,Blair,Glyn,Blair Glyn,Women,2011-03-27,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U15,4,14.55,1.5,Timed final
+66,Clara,Holt,Clara Holt,Women,2013-07-03,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U15,4,14.8,1.5,Timed final
+67,Savannah,York,Savannah York,Women,2011-06-30,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U15,4,14.7,1.5,Timed final
+68,Talia,Wren,Talia Wren,Women,2013-12-22,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,4,14.45,1.5,Timed final
+69,Isabella,Ridge,Isabella Ridge,Women,2012-08-15,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U15,4,14.7,1.5,Timed final
+70,Aria,Fern,Aria Fern,Women,2013-08-14,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,4,14.3,1.5,Timed final
+71,Chloe,Gale,Chloe Gale,Women,2011-12-20,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U15,4,14.3,1.5,Timed final
+72,Elise,June,Elise June,Women,2013-05-29,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,5,15.3,1.8,Timed final
+73,Freya,Knox,Freya Knox,Women,2011-12-16,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U15,5,15.55,1.8,Timed final
+74,Indie,Nova,Indie Nova,Women,2013-11-01,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,5,14.4,1.8,Timed final
+75,Mira,Rose,Mira Rose,Women,2013-06-22,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,5,15.4,1.8,Timed final
+76,Kaya,Pearl,Kaya Pearl,Women,2013-04-19,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,5,14.9,1.8,Timed final
+77,Ella,Surge,Ella Surge,Women,2012-10-05,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U15,5,14.7,1.8,Timed final
+78,Luna,Quinn,Luna Quinn,Women,2012-12-06,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U15,5,15.15,1.8,Timed final
+79,Amelia,Flash,Amelia Flash,Women,2011-05-30,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U15,5,14.3,1.8,Timed final
+80, Samuel, Jet , Samuel  Jet , Men, 2008-03-25 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U18,1,11.4,0.9,Timed final
+81, Wesley, Grey, Wesley  Grey, Men, 2008-06-30 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,1,11.8,0.9,Timed final
+82, Ivan , Locke, Ivan   Locke, Men, 2008-01-08 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U18,1,11.15,0.9,Timed final
+83, Holden, Kane, Holden  Kane, Men, 2009-07-25 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,1,12.15,0.9,Timed final
+84, Tucker, Ford, Tucker  Ford, Men, 2009-01-31 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,1,12.8,0.9,Timed final
+85, Corbin, Nash, Corbin  Nash, Men, 2008-07-09 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U18,1,11.4,0.9,Timed final
+86, Gideon, Shaw, Gideon  Shaw, Men, 2008-05-11 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,1,12,0.9,Timed final
+87, Eli, Vortex , Eli  Vortex , Men, 2009-04-22 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,1,11.8,0.9,Timed final
+88, Tyson, Bolt, Tyson  Bolt, Men, 2008-02-10 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,2,11.4,1.1,Timed final
+89, Xavier, Holt, Xavier  Holt, Men, 2009-01-15 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,2,11.95,1.1,Timed final
+90, Jasper, Milo, Jasper  Milo, Men, 2009-04-14 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,2,11.3,1.1,Timed final
+91, Lennox, Owen, Lennox  Owen, Men, 2008-06-05 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,2,11.6,1.1,Timed final
+92, Jacob, Surge, Jacob  Surge, Men, 2009-09-12 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,2,11.8,1.1,Timed final
+93, Harley, Tate, Harley  Tate, Men, 2009-06-29 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,2,12.15,1.1,Timed final
+94, Owen , Sprint , Owen   Sprint , Men, 2008-08-30 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,2,11.4,1.1,Timed final
+95, Jonah, Wade, Jonah  Wade, Men, 2008-09-08 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,2,11.3,1.1,Timed final
+96, Roman, Blair, Roman  Blair, Men, 2008-12-14 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,3,11.2,1.3,Timed final
+97, Archer, Levi, Archer  Levi, Men, 2008-04-05 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,3,12.25,1.3,Timed final
+98, Ryan , Flash, Ryan   Flash, Men, 2008-06-18 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,3,11.4,1.3,Timed final
+99, Maddox, Reid, Maddox  Reid, Men, 2009-02-28 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,3,11.75,1.3,Timed final
+100, Caleb, Rush, Caleb  Rush, Men, 2009-05-15 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U18,3,11.8,1.3,Timed final
+101, Luke , Wind, Luke   Wind, Men, 2009-10-15 ,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05, 100m,U18,3,11.8,1.3,Timed final
+102, Miles, Zane, Miles  Zane, Men, 2008-10-13 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,3,11.75,1.3,Timed final
+103, Kade , Xander , Kade   Xander , Men, 2009-04-24 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U18,3,11.45,1.3,Timed final
+104,Jackson,Harbour,Jackson Harbour, Men, 2009-11-20 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,4,11.29,1.5,Timed final
+105, Nolan, Adler, Nolan  Adler, Men, 2009-02-19 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U18,4,11.9,1.5,Timed final
+106, Soren, Cole, Soren  Cole, Men, 2008-03-03 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U18,4,11.35,1.5,Timed final
+107, Dax, Ellis, Dax  Ellis, Men, 2008-09-30 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U18,4,11.55,1.5,Timed final
+108, Adrian, Holt, Adrian  Holt, Men, 2008-05-12 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,4,11.1,1.5,Timed final
+109, Damon, Pierce , Damon  Pierce , Men, 2008-08-14 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,4,11.55,1.5,Timed final
+110, Dylan, Speed, Dylan  Speed, Men, 2008-11-20 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,4,11.4,1.5,Timed final
+111, Daniel, Strike , Daniel  Strike , Men, 2009-01-30 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,4,11.8,1.5,Timed final
+112, Orion, Tate, Orion  Tate, Men, 2008-11-11 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,4,12.05,1.5,Timed final
+113, Ryder, Dean, Ryder  Dean, Men, 2008-12-22 ,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05, 100m,U18,5,12.2,1.8,Timed final
+114, Isaac, Blaze, Isaac  Blaze, Men, 2009-07-08 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,5,11.8,1.8,Timed final
+115, Bennett , Chase, Bennett   Chase, Men, 2009-08-23 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,5,11.25,1.8,Timed final
+116, Titus, Dean, Titus  Dean, Men, 2009-07-07 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,5,11.5,1.8,Timed final
+117, Nathan, Gust, Nathan  Gust, Men, 2008-12-05 ,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05, 100m,U18,5,11.4,1.8,Timed final
+118, Emerson , Grant, Emerson   Grant, Men, 2009-03-02 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,5,11.7,1.8,Timed final
+119, Beckett , Milo, Beckett   Milo, Men, 2009-02-22 ,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05, 100m,U18,5,11.25,1.8,Timed final
+120, Ezra , Quinn, Ezra   Quinn, Men, 2009-03-27 ,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05, 100m,U18,5,11.7,1.8,Timed final
+121,Ivy,Jinx,Ivy Jinx,Women,2008-01-08,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U18,1,12.15,0.9,Timed final
+122,Jade,Kora,Jade Kora,Women,2009-04-14,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U18,1,12.35,0.9,Timed final
+123,Risa,Sloane,Risa Sloane,Women,2008-12-14,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U18,1,12.2,0.9,Timed final
+124,Grace,Swift,Grace Swift,Women,2008-06-15,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U18,1,12.6,0.9,Timed final
+125,Ava,Bliss,Ava Bliss,Women,2008-05-12,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,1,12.1,0.9,Timed final
+126,Bree,Cade,Bree Cade,Women,2009-08-23,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,1,12.3,0.9,Timed final
+127,Harper,Dash,Harper Dash,Women,2009-03-20,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U18,1,13,0.9,Timed final
+128,Cali,Dove,Cali Dove,Women,2007-11-15,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,1,12.5,0.9,Timed final
+129,Lynn,Kali,Lynn Kali,Women,2008-10-17,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U18,2,12.55,1.1,Timed final
+130,Sana,Tide,Sana Tide,Women,2008-03-03,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,2,12.4,1.1,Timed final
+131,Ines,Mira,Ines Mira,Women,2009-04-24,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U18,2,12.5,1.1,Timed final
+132,Zoey,Storm,Zoey Storm,Women,2009-07-25,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U18,2,13,1.1,Timed final
+133,Hedi,Lila,Hedi Lila,Women,2008-09-08,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U18,2,12.3,1.1,Timed final
+134,Scarlett,Bolt,Scarlett Bolt,Women,2008-11-10,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U18,2,12.6,1.1,Timed final
+135,Zara,Dawn,Zara Dawn,Women,2009-02-22,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U18,2,12.25,1.1,Timed final
+136,Demi,Elle,Demi Elle,Women,2008-09-30,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,2,12.7,1.1,Timed final
+137,Mila,Nix,Mila Nix,Women,2009-02-28,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U18,3,12.95,1.3,Timed final
+138,Luna,Reed,Luna Reed,Women,2008-12-05,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U18,3,12.6,1.3,Timed final
+139,Nora,Ode,Nora Ode,Women,2008-08-21,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U18,3,13.15,1.3,Timed final
+140,Lana,Mae,Lana Mae,Women,2008-06-05,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U18,3,12.75,1.3,Timed final
+141,Violet,Blaze,Violet Blaze,Women,2009-01-15,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,3,13,1.3,Timed final
+142,Alix,Eden,Alix Eden,Women,2008-07-09,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U18,3,12.45,1.3,Timed final
+143,Faye,Gale,Faye Gale,Women,2008-06-19,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U18,3,13.1,1.3,Timed final
+144,Eira,Fawn,Eira Fawn,Women,2009-03-02,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U18,3,12.9,1.3,Timed final
+145,Cleo,Gwen,Cleo Gwen,Women,2009-03-27,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U18,4,12.85,1.5,Timed final
+146,Dara,Hara,Dara Hara,Women,2008-11-03,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U18,4,13.05,1.5,Timed final
+147,Gina,Haze,Gina Haze,Women,2008-12-10,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U18,4,13.3,1.5,Timed final
+148,Ruby,Gale,Ruby Gale,Women,2008-04-30,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U18,4,12.6,1.5,Timed final
+149,Oona,Pace,Oona Pace,Women,2008-11-11,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U18,4,13.35,1.5,Timed final
+150,Stella,Ridge,Stella Ridge,Women,2009-08-10,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,4,13,1.5,Timed final
+151,Tara,Vale,Tara Vale,Women,2009-07-07,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U18,4,12.6,1.5,Timed final
+152,Bria,Fae,Bria Fae,Women,2008-08-14,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U18,4,12.65,1.5,Timed final
+153,Hara,Isle,Hara Isle,Women,2009-07-25,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,5,13.5,1.8,Timed final
+154,Jana,Nola,Jana Nola,Women,2008-07-01,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,5,12.7,1.8,Timed final
+155,Mina,Sana,Mina Sana,Women,2008-08-06,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U18,5,13.3,1.8,Timed final
+156,Nala,Tara,Nala Tara,Women,2008-12-22,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U18,5,13.5,1.8,Timed final
+157,Lena,Risa,Lena Risa,Women,2009-02-19,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U18,5,13.1,1.8,Timed final
+158,Kora,Pia,Kora Pia,Women,2008-10-13,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U18,5,12.9,1.8,Timed final
+159,Ivy,Surge,Ivy Surge,Women,2009-10-20,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U18,5,13,1.8,Timed final
+160,Hazel,Flash,Hazel Flash,Women,2008-05-25,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U18,5,12.6,1.8,Timed final
+161,Ace,Burton,Ace Burton,Men,2006-05-12,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,1,10.7,0.9,Timed final
+162,Hawk,Jasper,Hawk Jasper,Men,2006-01-08,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,1,10.75,0.9,Timed final
+163,Pax,River,Pax River,Men,2006-12-14,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,1,10.8,0.9,Timed final
+164,Axel,Zane,Axel Zane,Men,2006-02-22,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,1,10.85,0.9,Timed final
+165,Cade,Donovan,Cade Donovan,Men,2006-11-15,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,1,11,0.9,Timed final
+166,Jett,Lawson,Jett Lawson,Men,2006-10-17,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,1,11.05,0.9,Timed final
+167,Rex,Tanner,Rex Tanner,Men,2006-07-07,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,1,11.1,0.9,Timed final
+168,Cole,Sprint,Cole Sprint,Men,2006-03-10,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,1,11.1,0.9,Timed final
+169,Blaze,Carter,Blaze Carter,Men,2006-08-23,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,2,10.85,1.1,Timed final
+170,Ian,Keller,Ian Keller,Men,2006-04-14,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,2,10.9,1.1,Timed final
+171,Quill,Sage,Quill Sage,Men,2006-03-03,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,2,10.95,1.1,Timed final
+172,Daniel,Adler,Daniel Adler,Men,2006-07-09,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,2,11,1.1,Timed final
+173,Knox,Harley,Knox Harley,Men,2006-09-08,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,2,10.9,1.1,Timed final
+174,Dash,Felix,Dash Felix,Men,2006-03-02,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,2,11.3,1.1,Timed final
+175,Finn,Rush,Finn Rush,Men,2006-05-25,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,2,11.1,1.1,Timed final
+176,Finn,Hudson,Finn Hudson,Men,2006-12-10,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,2,11.6,1.1,Timed final
+177,Levi,Isaiah,Levi Isaiah,Men,2006-04-24,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,11.05,1.3,Timed final
+178,Cruz,Beckett,Cruz Beckett,Men,2006-08-14,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,11.15,1.3,Timed final
+179,Evan,Dash,Evan Dash,Men,2006-11-03,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,3,11.45,1.3,Timed final
+180,Tate,Usher,Tate Usher,Men,2006-06-30,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,11.4,1.3,Timed final
+181,Lane,Nixon,Lane Nixon,Men,2006-02-28,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,11.35,1.3,Timed final
+182,Zane,Bolt,Zane Bolt,Men,2006-09-15,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,3,11.1,1.3,Timed final
+183,Nash,Porter,Nash Porter,Men,2006-11-11,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,11.65,1.3,Timed final
+184,Miles,Storm,Miles Storm,Men,2006-07-20,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,11.5,1.3,Timed final
+185,Mason,Jonah,Mason Jonah,Men,2006-07-01,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,4,11.2,1.5,Timed final
+186,Drake,Corbin,Drake Corbin,Men,2006-03-27,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,4,11.3,1.5,Timed final
+187,Nolan,Kade,Nolan Kade,Men,2006-10-13,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,4,11.35,1.5,Timed final
+188,Jace,Speed,Jace Speed,Men,2006-01-30,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,4,11.1,1.5,Timed final
+189,Wade,Xavier,Wade Xavier,Men,2006-10-18,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,4,11.7,1.5,Timed final
+190,Hayes,Finn,Hayes Finn,Men,2006-06-29,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,4,11.75,1.5,Timed final
+191,Reid,Flash,Reid Flash,Men,2006-11-25,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,4,11.5,1.5,Timed final
+192,Reid,Lincoln,Reid Lincoln,Men,2006-02-19,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,4,11.5,1.5,Timed final
+193,Grant,Ezra,Grant Ezra,Men,2006-05-11,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,5,11.6,1.8,Timed final
+194,Jace,Gideon,Jace Gideon,Men,2006-12-16,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,5,11.9,1.8,Timed final
+195,Silas,Miles,Silas Miles,Men,2006-08-06,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,5,11.65,1.8,Timed final
+196,Logan,Jet,Logan Jet,Men,2006-04-05,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,5,11.1,1.8,Timed final
+197,Ethan,Surge,Ethan Surge,Men,2006-08-10,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,5,11.5,1.8,Timed final
+198,Theo,Preston,Theo Preston,Men,2006-12-22,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,5,11.8,1.8,Timed final
+199,Noah,Gust,Noah Gust,Men,2006-02-15,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,5,11.1,1.8,Timed final
+200,Wyatt,Ryder,Wyatt Ryder,Men,2006-01-31,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,5,12.2,1.8,Timed final
+201,Aida,Bloom,Aida Bloom,Women,2006-05-12,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,1,11.6,0.9,Timed final
+202,Ida,Jade,Ida Jade,Women,2006-01-08,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,1,11.65,0.9,Timed final
+203,Raya,Sage,Raya Sage,Women,2006-12-14,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,1,11.7,0.9,Timed final
+204,Bela,Crane,Bela Crane,Women,2006-08-23,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,1,11.8,0.9,Timed final
+205,Aria,Swift,Aria Swift,Women,2006-03-15,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,1,12.1,0.9,Timed final
+206,Cami,Dune,Cami Dune,Women,2006-11-15,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,1,12,0.9,Timed final
+207,Jana,Kite,Jana Kite,Women,2006-04-14,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,1,11.85,0.9,Timed final
+208,Bella,Dash,Bella Dash,Women,2006-07-20,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,1,12.5,0.9,Timed final
+209,Zia,Dawn,Zia Dawn,Women,2006-02-22,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,2,11.75,1.1,Timed final
+210,Alice,Eden,Alice Eden,Women,2005-07-09,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,2,11.95,1.1,Timed final
+211,Hara,Lila,Hara Lila,Women,2006-09-08,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,2,11.8,1.1,Timed final
+212,Ida,Mira,Ida Mira,Women,2006-04-24,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,2,12,1.1,Timed final
+213,Cora,Bolt,Cora Bolt,Women,2006-11-05,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,2,12.1,1.1,Timed final
+214,Dina,Ember,Dina Ember,Women,2005-09-30,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,2,12.2,1.1,Timed final
+215,Kaya,Lark,Kaya Lark,Women,2006-10-17,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,2,12.05,1.1,Timed final
+216,Daisy,Storm,Daisy Storm,Women,2006-01-25,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,2,12.5,1.1,Timed final
+217,Sia,Tide,Sia Tide,Women,2006-03-03,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,11.9,1.3,Timed final
+218,Elia,Flick,Elia Flick,Women,2006-03-03,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,12.4,1.3,Timed final
+219,Lia,Maeve,Lia Maeve,Women,2006-06-05,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,3,12.25,1.3,Timed final
+220,Eden,Reed,Eden Reed,Women,2006-08-15,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,3,12.1,1.3,Timed final
+221,Mara,Nix,Mara Nix,Women,2006-02-28,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,3,12.45,1.3,Timed final
+222,Tina,Vale,Tina Vale,Women,2006-07-07,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,3,12.1,1.3,Timed final
+223,Faye,Blaze,Faye Blaze,Women,2006-12-10,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,3,12.5,1.3,Timed final
+224,Fina,Grove,Fina Grove,Women,2006-06-19,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,3,12.6,1.3,Timed final
+225,Jade,Nola,Jade Nola,Women,2006-07-01,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,4,12.2,1.5,Timed final
+226,Una,Wisp,Una Wisp,Women,2006-09-22,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,4,12.3,1.5,Timed final
+227,Vina,Yale,Vina Yale,Women,2006-06-30,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,4,12.5,1.5,Timed final
+228,Gia,Gale,Gia Gale,Women,2006-04-30,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,U20,4,12.1,1.5,Timed final
+229,Gabi,Haven,Gabi Haven,Women,2006-12-10,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,4,12.8,1.5,Timed final
+230,Nia,Ode,Nia Ode,Women,2006-08-21,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,4,12.65,1.5,Timed final
+231,Hana,Ridge,Hana Ridge,Women,2006-09-20,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,4,12.5,1.5,Timed final
+232,Ola,Pace,Ola Pace,Women,2006-11-11,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,4,12.85,1.5,Timed final
+233,Kali,Pia,Kali Pia,Women,2006-10-13,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,5,12.4,1.8,Timed final
+234,Lana,Risa,Lana Risa,Women,2006-02-19,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,5,12.6,1.8,Timed final
+235,Mila,Sana,Mila Sana,Women,2006-08-06,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,5,12.8,1.8,Timed final
+236,Indie,Flash,Indie Flash,Women,2006-05-10,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,5,12.1,1.8,Timed final
+237,Jade,Surge,Jade Surge,Women,2006-10-25,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,U20,5,12.5,1.8,Timed final
+238,Pria,Raine,Pria Raine,Women,2006-05-09,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,U20,5,13.05,1.8,Timed final
+239,Hila,Iris,Hila Iris,Women,2006-07-25,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,U20,5,13,1.8,Timed final
+240,Nora,Tara,Nora Tara,Women,2006-12-22,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,U20,5,13,1.8,Timed final
+241,Bryce,Adler,Bryce Adler,Men,1998-05-12,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,1,10.35,0.9,Timed final
+242,Kane,Irwin,Kane Irwin,Men,1996-01-08,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,1,10.4,0.9,Timed final
+243,Vance,Quill,Vance Quill,Men,1999-12-14,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,1,10.45,0.9,Timed final
+244,Ford,Xavier,Ford Xavier,Men,2003-02-22,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,1,10.5,0.9,Timed final
+245,Cole,Baxter,Cole Baxter,Men,2000-08-23,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,1,10.5,0.9,Timed final
+246,Trent,Blaze,Trent Blaze,Men,1997-06-15,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,1,10.7,0.9,Timed final
+247,Levi,Jaxon,Levi Jaxon,Men,2004-04-14,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,1,10.55,0.9,Timed final
+248,Dane,Carver,Dane Carver,Men,1995-11-15,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,1,10.65,0.9,Timed final
+249,Nico,Finn,Nico Finn,Men,1997-09-08,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,2,10.55,1.1,Timed final
+250,Pax,Gideon,Pax Gideon,Men,2003-04-24,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,2,10.7,1.1,Timed final
+251,Wade,River,Wade River,Men,2001-03-03,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,2,10.6,1.1,Timed final
+252,Grey,Yarrow,Grey Yarrow,Men,1999-07-09,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,2,10.65,1.1,Timed final
+253,Milo,Kane,Milo Kane,Men,1998-10-17,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,2,10.7,1.1,Timed final
+254,Blake,Dash,Blake Dash,Men,2000-05-20,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,2,10.7,1.1,Timed final
+255,Evan,Drake,Evan Drake,Men,2002-09-30,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,2,10.8,1.1,Timed final
+256,Sean,Storm,Sean Storm,Men,1996-08-12,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,2,11.1,1.1,Timed final
+257,Nash,Lawson,Nash Lawson,Men,2000-06-05,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,3,10.85,1.3,Timed final
+258,Zane,Slate,Zane Slate,Men,1996-07-07,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,3,10.75,1.3,Timed final
+259,Finn,Easton,Finn Easton,Men,1997-03-02,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,3,10.95,1.3,Timed final
+260,Kyle,Speed,Kyle Speed,Men,2001-09-18,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,3,10.7,1.3,Timed final
+261,Owen,Maddox,Owen Maddox,Men,2002-02-28,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,3,11,1.3,Timed final
+262,Axel,Tanner,Axel Tanner,Men,2004-09-22,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,3,10.9,1.3,Timed final
+263,Drew,Flash,Drew Flash,Men,1998-11-10,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,3,11.1,1.3,Timed final
+264,Brock,Tyson,Brock Tyson,Men,1998-06-30,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,3,11.05,1.3,Timed final
+265,Gage,Foster,Gage Foster,Men,2001-06-19,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,4,11.1,1.5,Timed final
+266,Horrace,Tay,Horrace Tay,Men,2001-08-14,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,4,10.8,1.5,Timed final
+267,Jake,Surge,Jake Surge,Men,1999-03-25,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,4,10.7,1.5,Timed final
+268,Jett,Beckett,Jett Beckett,Men,2004-11-03,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,4,11.1,1.5,Timed final
+269,Knox,Corbin,Knox Corbin,Men,1998-05-11,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,4,11.25,1.5,Timed final
+270,Reid,Nolan,Reid Nolan,Men,1997-08-21,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,4,11.15,1.5,Timed final
+271,Mark,Jet,Mark Jet,Men,2002-07-05,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,4,11.1,1.5,Timed final
+272,Holt,Grayson,Holt Grayson,Men,1999-12-10,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,4,11.25,1.5,Timed final
+273,Rhett,Harley,Rhett Harley,Men,1999-07-01,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,5,10.85,1.8,Timed final
+274,Clay,Usher,Clay Usher,Men,2000-01-15,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,5,11.2,1.8,Timed final
+275,Adam,Rush,Adam Rush,Men,1995-10-20,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,5,10.7,1.8,Timed final
+276,Seth,Isaiah,Seth Isaiah,Men,2001-10-13,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,5,11,1.8,Timed final
+277,Ian,Gust,Ian Gust,Men,2003-12-15,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,5,11.1,1.8,Timed final
+278,Trey,Jonah,Trey Jonah,Men,2004-02-19,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,5,11.15,1.8,Timed final
+279,Lane,Damon,Lane Damon,Men,2000-06-29,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,5,11.4,1.8,Timed final
+280,Max,Ezra,Max Ezra,Men,2002-12-16,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,5,11.55,1.8,Timed final
+281,Aria,Blaze,Aria Blaze,Women,1998-05-12,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,1,11.3,0.9,Timed final
+282,Isla,Jinx,Isla Jinx,Women,1996-01-08,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,1,11.35,0.9,Timed final
+283,Sarah,Sage,Sarah Sage,Women,1999-12-14,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,1,11.4,0.9,Timed final
+284,Bryn,Crest,Bryn Crest,Women,2000-08-23,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,1,11.5,0.9,Timed final
+285,Lila,Swift,Lila Swift,Women,1997-06-15,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,1,11.8,0.9,Timed final
+286,Jazlyn,Kora,Jazlyn Kora,Women,2004-04-14,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,1,11.55,0.9,Timed final
+287,Yara,Dawn,Yara Dawn,Women,2003-02-22,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,1,11.45,0.9,Timed final
+288,Maya,Dash,Maya Dash,Women,2001-09-10,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,1,12.2,0.9,Timed final
+289,Gina,Lila,Gina Lila,Women,1997-09-08,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,2,11.5,1.1,Timed final
+290,Hana,Mira,Hana Mira,Women,2003-04-24,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,2,11.7,1.1,Timed final
+291,Madeline,Tide,Madeline Tide,Women,2001-03-03,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,2,11.6,1.1,Timed final
+292,Zoe,Eden,Zoe Eden,Women,1999-07-09,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,2,11.65,1.1,Timed final
+293,Nora,Bolt,Nora Bolt,Women,2000-11-05,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,2,11.8,1.1,Timed final
+294,Cali,Drift,Cali Drift,Women,1995-11-15,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,2,11.7,1.1,Timed final
+295,Kaya,Lush,Kaya Lush,Women,1998-10-17,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,2,11.75,1.1,Timed final
+296,Opal,Storm,Opal Storm,Women,2002-07-20,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,2,12.2,1.1,Timed final
+297,Dara,Echo,Dara Echo,Women,2002-09-30,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,3,11.9,1.3,Timed final
+298,Eden,Flare,Eden Flare,Women,1997-03-02,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,3,12.1,1.3,Timed final
+299,Lila,Mira,Lila Mira,Women,2000-06-05,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,3,11.95,1.3,Timed final
+300,Piper,Reed,Piper Reed,Women,1998-12-15,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,3,11.8,1.3,Timed final
+301,Maeve,Nix,Maeve Nix,Women,2002-02-28,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,3,12.15,1.3,Timed final
+302,Sana,Vale,Sana Vale,Women,1996-07-07,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,3,11.8,1.3,Timed final
+303,Quinn,Blaze,Quinn Blaze,Women,2003-01-25,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,3,12.2,1.3,Timed final
+304,Fina,Glade,Fina Glade,Women,2001-06-19,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,3,12.3,1.3,Timed final
+305,Tara,Wisp,Tara Wisp,Women,2004-09-22,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,4,12,1.5,Timed final
+306,Alix,Fae,Alix Fae,Women,2001-08-14,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,4,11.85,1.5,Timed final
+307,Bree,Gwen,Bree Gwen,Women,1995-03-27,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,4,12.05,1.5,Timed final
+308,Rhea,Gale,Rhea Gale,Women,1999-04-30,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,4,11.8,1.5,Timed final
+309,Gwen,Haze,Gwen Haze,Women,1999-12-10,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,4,12.5,1.5,Timed final
+310,Cora,Hara,Cora Hara,Women,2004-11-03,Aelthoria,Lumora Athletics Club,Local_2,2025-02-05,100m,Open,4,12.25,1.5,Timed final
+311,Sadie,Ridge,Sadie Ridge,Women,2000-08-25,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,4,12.2,1.5,Timed final
+312,Nina,Oaks,Nina Oaks,Women,1997-08-21,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,4,12.35,1.5,Timed final
+313,Indie,Nola,Indie Nola,Women,1999-07-01,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,5,11.9,1.8,Timed final
+314,Jana,Pia,Jana Pia,Women,2001-10-13,Aelthoria,Eldrin Athletics Club,Local_2,2025-02-05,100m,Open,5,12.1,1.8,Timed final
+315,Kora,Risa,Kora Risa,Women,1996-02-19,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,5,12.3,1.8,Timed final
+316,Talia,Flash,Talia Flash,Women,2002-05-20,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,5,11.8,1.8,Timed final
+317,Uma,Surge,Uma Surge,Women,1998-10-15,Aelthoria,Vyrnwood Athletics Club,Local_2,2025-02-05,100m,Open,5,12.2,1.8,Timed final
+318,Hailey,Pace,Hailey Pace,Women,2003-05-09,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,5,12.5,1.8,Timed final
+319,Lena,Sana,Lena Sana,Women,2000-08-06,Aelthoria,Sylvara Athletics Club,Local_2,2025-02-05,100m,Open,5,12.4,1.8,Timed final
+320,Mina,Tara,Mina Tara,Women,1995-12-22,Aelthoria,Thalindra Athletics Club,Local_2,2025-02-05,100m,Open,5,12.6,1.8,Timed final

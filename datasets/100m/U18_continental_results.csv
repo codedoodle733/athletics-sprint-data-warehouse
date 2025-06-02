@@ -1,0 +1,13 @@
+﻿id,first_name,last_name,full_name,sex,nationality,club,competition_name,date_meet,event,category,heat_number,results,wind_factor,format,rank
+1,Adrian,Holt,Adrian Holt,Men,Aelthoria,Vyrnwood Athletics Club,U18 Continental Championships,2025-05-02,100m,U18,1,11.09,1.4,Heats,11
+2,Ivan,Locke,Ivan Locke,Men,Aelthoria,Lumora Athletics Club,U18 Continental Championships,2025-05-02,100m,U18,3,11.14,1.4,Heats,12
+3,Ava,Bliss,Ava Bliss,Women,Aelthoria,Eldrin Athletics Club,U18 Continental Championships,2025-05-02,100m,U18,1,12.09,1.4,Heats,10
+4,Ivy,Jinx,Ivy Jinx,Women,Aelthoria,Sylvara Athletics Club,U18 Continental Championships,2025-05-02,100m,U18,4,12.14,1.4,Heats,11
+5,Adrian,Holt,Adrian Holt,Men,Aelthoria,Vyrnwood Athletics Club,U18 Continental Championships,2025-05-02,100m,U18,1,11.08,1.4,Semifinals,7
+6,Ivan,Locke,Ivan Locke,Men,Aelthoria,Lumora Athletics Club,U18 Continental Championships,2025-05-02,100m,U18,3,11.13,1.4,Semifinals,8
+7,Ava,Bliss,Ava Bliss,Women,Aelthoria,Eldrin Athletics Club,U18 Continental Championships,2025-05-02,100m,U18,1,12.08,1.4,Semifinals,7
+8,Ivy,Jinx,Ivy Jinx,Women,Aelthoria,Sylvara Athletics Club,U18 Continental Championships,2025-05-02,100m,U18,3,12.13,1.4,Semifinals,8
+9,Adrian,Holt,Adrian Holt,Men,Aelthoria,Vyrnwood Athletics Club,U18 Continental Championships,2025-05-03,100m,U18,,10.7,1.9,Finals,3
+10,Ivan,Locke,Ivan Locke,Men,Aelthoria,Lumora Athletics Club,U18 Continental Championships,2025-05-03,100m,U18,,10.74,1.9,Finals,4
+11,Ava,Bliss,Ava Bliss,Women,Aelthoria,Eldrin Athletics Club,U18 Continental Championships,2025-05-03,100m,U18,,11.66,1.9,Finals,2
+12,Ivy,Jinx,Ivy Jinx,Women,Aelthoria,Sylvara Athletics Club,U18 Continental Championships,2025-05-03,100m,U18,,11.71,1.9,Finals,3
