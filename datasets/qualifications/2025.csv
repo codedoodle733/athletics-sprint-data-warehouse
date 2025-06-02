@@ -1,0 +1,15 @@
+﻿id,sex,category,competition_name,date_meet,qualification_window_open,qualification_window_closed,type,method,event ,meet_criteria,2%_off_mark,3.5%_off_mark,5%_off_mark
+1,Men,U15,Little Athletics  Championships,2025-03-25,2025-01-26,2025-02-25,overseas,Qualification,100m,11.8,12.04,12.21,12.39
+2,Women,U15,Little Athletics  Championships,2025-03-25,2025-01-26,2025-02-25,overseas,Qualification,100m,13.5,13.77,13.97,14.18
+3,Men,U15,Little Athletics  Championships,2025-03-25,2025-01-26,2025-02-25,overseas,Qualification,4x100m,46.26,47.19,47.88,48.57
+4,Women,U15,Little Athletics  Championships,2025-03-25,2025-01-26,2025-02-25,overseas,Qualification,4x100m,52.92,53.98,54.77,55.57
+5,Men,U18,U18 Continental Championships,2025-05-02,2024-03-03,2025-04-02,overseas,Qualification,100m,11.15,11.37,11.54,11.71
+6,Women,U18,U18 Continental Championships,2025-05-02,2024-03-03,2025-04-02,overseas,Qualification,100m,12.15,12.39,12.58,12.76
+7,Men,U18,U18 Continental Championships,2025-05-02,2024-03-03,2025-04-02,overseas,Qualification,4x100m,43.25,44.12,44.76,45.41
+8,Women,U18,U18 Continental Championships,2025-05-02,2024-03-03,2025-04-02,overseas,Qualification,4x100m,47.14,48.08,48.79,49.5
+9,Men,U20,U20 Continental Cup,2025-05-04,2024-04-04,2025-04-04,overseas,Qualification,100m,10.8,11.02,11.18,11.34
+10,Women,U20,U20 Continental Cup,2025-05-04,2024-04-04,2025-04-04,overseas,Qualification,100m,11.7,11.93,12.11,12.29
+11,Men,U20,U20 Continental Cup,2025-05-04,2024-04-04,2025-04-04,overseas,Qualification,4x100m,41.9,42.74,43.37,44
+12,Women,U20,U20 Continental Cup,2025-05-04,2024-04-04,2025-04-04,overseas,Qualification,4x100m,45.4,46.31,46.99,47.67
+13,Men,Open,National Open Championships,2025-06-06,2024-12-23,2025-05-23,local,Qualification,100m,10.8,11.02,11.18,11.34
+14,Women,Open,National Open Championships,2025-06-06,2024-12-23,2025-05-23,local,Qualification,100m,12.1,12.34,12.52,12.71
