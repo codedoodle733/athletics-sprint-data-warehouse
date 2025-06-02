@@ -1,0 +1,5 @@
+id,team,sex,category,event,format,competition_name,date_meet,leg_1_full_name,leg_2_full_name,leg_3_full_name,leg_4_full_name,leg_1_split,leg_2_split,leg_3_split,leg_4_split,first_dist_split,second_dist_split,third_dist_split,results
+1,Aelthoria_Team_A_U15,Men,U15,4x100m,Timed final,Local_2,2025-02-05,Carter Brooks,Declan Fox,Milo Vance,Grayson Cole,11.9,11.2,11.6,11.56,11.9,23.1,34.7,46.26
+2,Aelthoria_Team_B_U15,Men,U15,4x100m,Timed final,Local_2,2025-02-05,Zane Kelly,Easton Grey,Levi Tucker,Nolan Wade,12,11.1,11.7,11.46,12,23.1,34.8,46.26
+3,Aelthoria_Team_A_U15,Women,U15,4x100m,Timed final,Local_2,2025-02-05,Avery Blair,Isla Jade,Quinn Sage,Bryn Carter,13.6,12.9,13.2,13.22,13.6,26.5,39.7,52.92
+4,Aelthoria_Team_B_U15,Women,U15,4x100m,Timed final,Local_2,2025-02-05,Yara Dell,Juniper Kane,Gia Lark,Rhea Tate,13.7,12.8,13.3,13.12,13.7,26.5,39.8,52.92

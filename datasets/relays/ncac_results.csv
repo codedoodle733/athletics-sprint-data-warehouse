@@ -1,0 +1,16 @@
+﻿id,team,sex,category,event,format,competition_name,date_meet,leg_1_full_name,leg_2_full_name,leg_3_full_name,leg_4_full_name,leg_1_split,leg_2_split,leg_3_split,leg_4_split,first_dist_split,second_dist_split,third_dist_split,results
+1,Eldrin Athletics Club,Men,U15,4x100m,Finals,National Club Athletics Championship,2025-06-02,Carter Brooks,Declan Fox,Hunter Reid,Liam Frost,11.21,10.62,11.47,11.54,11.21,21.83,33.3,44.84
+2,Sylvara Athletics Club,Men,U15,4x100m,Finals,National Club Athletics Championship,2025-06-02,Milo Vance,Max Vaughn,Preston York,Mason Bolt,11.3,11.15,11.58,11.57,11.3,22.45,34.03,45.6
+3,Lumora Athletics Club,Men,U15,4x100m,Finals,National Club Athletics Championship,2025-06-02,Zane Kelly,Finn Harper,Gideon Knox,Brody Lynch,11.76,11.15,11.68,11.78,11.76,22.91,34.59,46.37
+4,Thalindra Athletics Club,Men,U15,4x100m,Finals,National Club Athletics Championship,2025-06-02,Nolan Wade,Parker Lane,Bryce Tate,Ashton Wells,11.88,11.27,11.73,11.86,11.88,23.15,34.88,46.74
+5,Eldrin Athletics Club,Women,U15,4x100m,Finals,National Club Athletics Championship,2025-06-02,Avery Blair,Isla Jade,Cora Dixon,Yara Dell,12.93,12.74,13.35,13.29,12.93,25.67,39.02,52.31
+6,Sylvara Athletics Club,Women,U15,4x100m,Finals,National Club Athletics Championship,2025-06-02,Quinn Sage,Zoe Echo,Melina Mira,Sadie Vale,13.59,12.98,13.56,13.5,13.59,26.57,40.13,53.63
+7,Thalindra Athletics Club,Women,U15,4x100m,Finals,National Club Athletics Championship,2025-06-02,Juniper Kane,Gia Lark,Kira Lane,Aria Fern,13.74,13.07,13.49,13.62,13.74,26.81,40.3,53.92
+8,Vyrnwood Athletics Club,Men,U18,4x100m,Finals,National Club Athletics Championship,2025-06-02,Adrian Holt,Keegan Nash,Caleb Rush,Titus Dean,10.74,10.68,11.06,11.02,10.74,21.42,32.48,43.5
+9,Eldrin Athletics Club,Men,U18,4x100m,Finals,National Club Athletics Championship,2025-06-02,Roman Blair,Owen Sprint,Kade Xander,Dax Ellis,11.22,10.63,11.04,11.09,11.22,21.85,32.89,43.98
+10,Sylvara Athletics Club,Men,U18,4x100m,Finals,National Club Athletics Championship,2025-06-02,Samuel Jet,Beckett Milo,Ezra Quinn,Lincoln York,11.26,10.64,11.11,11.12,11.26,21.9,33.01,44.13
+11,Lumora Athletics Club,Men,U18,4x100m,Finals,National Club Athletics Championship,2025-06-02,Ivan Locke,Jackson Harbour,Gideon Shaw,Ryan Flash,10.78,10.88,11.25,11.28,10.78,21.66,32.91,44.19
+12,Sylvara Athletics Club,Women,U18,4x100m,Finals,National Club Athletics Championship,2025-06-02,Ivy Jinx,Alix Eden,Ines Mira,Tara Vale,11.75,11.61,12.05,12.08,11.75,23.36,35.41,47.49
+13,Eldrin Athletics Club,Women,U18,4x100m,Finals,National Club Athletics Championship,2025-06-02,Ava Bliss,Demi Elle,Jana Nola,Uma Wisp,11.7,11.85,12.24,12.27,11.7,23.55,35.79,48.06
+14,Lumora Athletics Club,Women,U18,4x100m,Finals,National Club Athletics Championship,2025-06-02,Risa Sloane,Luna Reed,Grace Swift,Lana Mae,12.23,11.75,12.14,12.22,12.23,23.98,36.12,48.34
+15,Vyrnwood Athletics Club,Women,U18,4x100m,Finals,National Club Athletics Championship,2025-06-02,Zara Dawn,Hedi Lila,Bria Fae,Eira Fawn,12.28,11.64,12.19,12.37,12.28,23.92,36.11,48.48

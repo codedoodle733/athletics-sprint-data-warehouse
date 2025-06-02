@@ -1,0 +1,5 @@
+﻿id,team,sex,category,event,format,competition_name,date_meet,leg_1_full_name,leg_2_full_name,leg_3_full_name,leg_4_full_name,leg_1_split,leg_2_split,leg_3_split,leg_4_split,first_dist_split,second_dist_split,third_dist_split,results,rank
+1,Aelthoria_Team_A_U20,Men,U20,4x100m_relay,Heats,U20 Continental Cup,04/05/2025,Ace Burton,Hawk Jasper,Pax River,Blaze Carter,10.74,9.8,10.45,9.47,10.74,20.54,30.99,40.46,2
+2,Aelthoria_Team_A_U20,Women,U20,4x100m_relay,Heats,U20 Continental Cup,04/05/2025,Aida Bloom,Ida Jade,Raya Sage,Zia Dawn,11.64,10.7,11.35,10.37,11.64,22.34,33.69,44.06,2
+3,Aelthoria_Team_A_U20,Men,U20,4x100m_relay,Finals,U20 Continental Cup,05/05/2025,Ace Burton,Hawk Jasper,Pax River,Blaze Carter,10.31,9.46,10.08,9.19,10.31,19.77,29.85,39.04,1
+4,Aelthoria_Team_A_U20,Women,U20,4x100m_relay,Finals,U20 Continental Cup,05/05/2025,Aida Bloom,Ida Jade,Raya Sage,Zia Dawn,11.18,11.23,11.28,10.01,11.18,22.41,33.69,43.7,1

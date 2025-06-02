@@ -1,0 +1,9 @@
+﻿id,team,sex,category,event,format,competition_name,date_meet,leg_1_full_name,leg_2_full_name,leg_3_full_name,leg_4_full_name,leg_1_split,leg_2_split,leg_3_split,leg_4_split,first_dist_split,second_dist_split,third_dist_split,results
+1,Aelthoria_Team_A_U20,Men,U20,4x100m,Timed final,Local_4,2025-04-14,Ace Burton,Hawk Jasper,Pax River,Blaze Carter,10.75,9.81,10.46,9.49,10.75,20.56,31.02,40.51
+2,Aelthoria_Team_B_U20,Men,U20,4x100m,Timed final,Local_4,2025-04-14,Axel Zane,Knox Harley,Ian Keller,Quill Sage,10.9,9.96,10.56,9.59,10.9,20.86,31.42,41.01
+3,Aelthoria_Team_A_U20,Women,U20,4x100m,Timed final,Local_4,2025-04-14,Aida Bloom,Ida Jade,Raya Sage,Zia Dawn,11.65,10.71,11.36,10.39,11.65,22.36,33.72,44.11
+4,Aelthoria_Team_B_U20,Women,U20,4x100m,Timed final,Local_4,2025-04-14,Bela Crane,Hara Lila,Jana Kite,Sia Tide,11.85,10.86,11.51,10.54,11.85,22.71,34.22,44.76
+5,Aelthoria_Team_A_Open,Men,Open,4x100m,Timed final,Local_4,2025-04-14,Bryce Adler,Kane Irwin,Vance Quill,Cole Baxter,10.4,9.46,10.11,9.14,10.4,19.86,29.97,39.11
+6,Aelthoria_Team_B_Open,Men,Open,4x100m,Timed final,Local_4,2025-04-14,Ford Xavier,Nico Finn,Levi Jaxon,Wade River,10.55,9.61,10.21,9.24,10.55,20.16,30.37,39.61
+7,Aelthoria_Team_A_Open,Women,Open,4x100m,Timed final,Local_4,2025-04-14,Aria Blaze,Isla Jinx,Sarah Sage,Yara Dawn,11.35,10.41,11.06,10.09,11.35,21.76,32.82,42.91
+8,Aelthoria_Team_B_Open,Women,Open,4x100m,Timed final,Local_4,2025-04-14,Bryn Crest,Gina Lila,Jazlyn Kora,Rhea Tide,11.55,10.56,11.21,10.24,11.55,22.11,33.32,43.56

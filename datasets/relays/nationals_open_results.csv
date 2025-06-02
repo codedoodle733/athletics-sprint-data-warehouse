@@ -1,0 +1,9 @@
+﻿id,team,sex,category,event,format,competition_name,date_meet,leg_1_full_name,leg_2_full_name,leg_3_full_name,leg_4_full_name,leg_1_split,leg_2_split,leg_3_split,leg_4_split,first_dist_split,second_dist_split,third_dist_split,results
+1,Aelthoria_Team_A_Open,Women,open,4x100m,Finals,National Open Championship,2025-06-07,Aida Bloom,Aria Blaze,Ida Jade,Sarah Sage,10.51,10.62,11.26,10.42,10.51,21.13,32.39,42.81
+2,Aelthoria_Team_B_Open,Women,open,4x100m,Finals,National Open Championship,2025-06-07,Raya Sage,Yara Dawn,Hana Mage,Cali Swift,10.76,10.87,11.6,10.53,10.76,21.63,33.23,43.76
+3,Aelthoria_Team_C_Open,Women,open,4x100m,Finals,National Open Championship,2025-06-07,Zoe Reed,Nora Bolt,Lila Swift,Alix Fae,10.95,11.04,11.7,10.67,10.95,21.99,33.69,44.36
+4,Aelthoria_Team_D_Open,Women,open,4x100m,Finals,National Open Championship,2025-06-07,Kaya Lush,Talia Flash,Rhea Gale,Piper Reed,11.03,11.15,11.82,10.73,11.03,22.18,34,44.73
+1,Aelthoria_Team_A_Open,Men,open,4x100m,Finals,National Open Championship,2025-06-07,Ace Burton,Bryce Adler,Hawk Jasper,Kane Irwin,10.64,8.97,9.31,9.37,10.64,19.61,28.92,38.29
+2,Aelthoria_Team_B_Open,Men,open,4x100m,Finals,National Open Championship,2025-06-07,Lane Tate,Cade Gale,Tyson Sage,Dean Quinn,10.96,9.27,9.33,9.37,10.96,20.23,29.56,38.93
+3,Aelthoria_Team_C_Open,Men,open,4x100m,Finals,National Open Championship,2025-06-07,Finn Wind,Pax River,Vance Quill,Ford Xavier,10.98,9.3,9.38,9.47,10.98,20.28,29.66,39.13
+4,Aelthoria_Team_D_Open,Men,open,4x100m,Finals,National Open Championship,2025-06-07,Cole Baxter,Levi Jaxon,Nico Finn,Theo Tate,11.06,9.42,9.48,9.49,11.06,20.48,29.96,39.45

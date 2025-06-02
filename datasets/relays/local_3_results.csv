@@ -1,0 +1,5 @@
+﻿id,team,sex,category,event,format,competition_name,date_meet,leg_1_full_name,leg_2_full_name,leg_3_full_name,leg_4_full_name,leg_1_split,leg_2_split,leg_3_split,leg_4_split,first_dist_split,second_dist_split,third_dist_split,results
+5,Aelthoria_Team_A_U18,Men,U18,4x100m,Timed final,Local_3,2025-03-10,Adrian Holt,Ivan Locke,Roman Blair,Bennett Chase,11.15,10.21,10.86,9.89,11.15,21.36,32.22,42.11
+6,Aelthoria_Team_B_U18,Men,U18,4x100m,Timed final,Local_3,2025-03-10,Beckett Milo,Jasper Milo,Jonah Wade,Soren Cole,11.3,10.36,10.96,9.99,11.3,21.66,32.62,42.61
+7,Aelthoria_Team_A_U18,Women,U18,4x100m,Timed final,Local_3,2025-03-10,Ava Bliss,Ivy Jinx,Risa Sloane,Zara Dawn,12.15,11.21,11.86,10.89,12.15,23.36,35.22,46.11
+8,Aelthoria_Team_B_U18,Women,U18,4x100m,Timed final,Local_3,2025-03-10,Bree Cade,Hedi Lila,Jade Kora,Sana Tide,12.35,11.36,12.01,11.04,12.35,23.71,35.72,46.76

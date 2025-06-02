@@ -1,0 +1,9 @@
+﻿id,team,sex,category,event,format,competition_name,date_meet,leg_1_full_name,leg_2_full_name,leg_3_full_name,leg_4_full_name,leg_1_split,leg_2_split,leg_3_split,leg_4_split,first_dist_split,second_dist_split,third_dist_split,results,rank
+1,Aelthoria_Team_A_U15,Men,U15,4x100m_relay,Heats,Little Athletics  Championships,2025-03-25,Carter Brooks,Declan Fox,Milo Vance,Grayson Cole,11.74,10.8,11.45,10.47,11.74,22.54,33.99,44.46,2
+2,Aelthoria_Team_B_U15,Men,U15,4x100m_relay,Heats,Little Athletics  Championships,2025-03-25,Zane Kelly,Easton Grey,Levi Tucker,Nolan Wade,11.89,10.95,11.55,10.57,11.89,22.84,34.39,44.96,3
+3,Aelthoria_Team_A_U15,Women,U15,4x100m_relay,Heats,Little Athletics  Championships,2025-03-25,Avery Blair,Isla Jade,Quinn Sage,Bryn Carter,13.54,12.65,13.35,12.37,13.54,26.19,39.54,51.91,3
+4,Aelthoria_Team_B_U15,Women,U15,4x100m_relay,Heats,Little Athletics  Championships,2025-03-25,Yara Dell,Juniper Kane,Gia Lark,Rhea Tate,13.84,12.9,13.55,12.57,13.84,26.74,40.29,52.86,4
+5,Aelthoria_Team_A_U15,Men,U15,4x100m_relay,Finals,Little Athletics  Championships,2025-03-26,Carter Brooks,Declan Fox,Milo Vance,Grayson Cole,11.28,10.42,11.05,10.15,11.28,21.7,32.75,42.9,2
+6,Aelthoria_Team_B_U15,Men,U15,4x100m_relay,Finals,Little Athletics  Championships,2025-03-26,Zane Kelly,Easton Grey,Levi Tucker,Nolan Wade,11.47,10.57,11.15,10.2,11.47,22.04,33.19,43.39,3
+7,Aelthoria_Team_A_U15,Women,U15,4x100m_relay,Finals,Little Athletics  Championships,2025-03-26,Avery Blair,Isla Jade,Quinn Sage,Bryn Carter,13.01,12.21,12.88,11.99,13.01,25.22,38.1,50.09,2
+8,Aelthoria_Team_B_U15,Women,U15,4x100m_relay,Finals,Little Athletics  Championships,2025-03-26,Yara Dell,Juniper Kane,Gia Lark,Rhea Tate,13.36,12.45,13.08,12.13,13.36,25.81,38.89,50.99,3

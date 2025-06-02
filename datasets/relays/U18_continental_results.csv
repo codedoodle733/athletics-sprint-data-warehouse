@@ -1,0 +1,9 @@
+﻿id,team,sex,category,event,format,competition_name,date_meet,leg_1_full_name,leg_2_full_name,leg_3_full_name,leg_4_full_name,leg_1_split,leg_2_split,leg_3_split,leg_4_split,first_dist_split,second_dist_split,third_dist_split,results,rank
+1,Aelthoria_Team_A_U18,Men,U18,4x100m_relay,Heats,U18 Continental Championships,02/05/2025,Adrian Holt,Ivan Locke,Roman Blair,Bennett Chase,11.14,10.2,10.85,9.87,11.14,21.34,32.19,42.06,3
+2,Aelthoria_Team_B_U18,Men,U18,4x100m_relay,Heats,U18 Continental Championships,02/05/2025,Beckett Milo,Jasper Milo,Jonah Wade,Soren Cole,11.29,10.35,10.95,9.97,11.29,21.64,32.59,42.56,4
+3,Aelthoria_Team_A_U18,Women,U18,4x100m_relay,Heats,U18 Continental Championships,02/05/2025,Ava Bliss,Ivy Jinx,Risa Sloane,Zara Dawn,12.14,11.2,11.85,10.87,12.14,23.34,35.19,46.06,3
+4,Aelthoria_Team_B_U18,Women,U18,4x100m_relay,Heats,U18 Continental Championships,02/05/2025,Bree Cade,Hedi Lila,Jade Kora,Sana Tide,12.34,11.35,12,11.02,12.34,23.69,35.69,46.71,4
+5,Aelthoria_Team_A_U18,Men,U18,4x100m_relay,Finals,U18 Continental Championships,03/05/2025,Adrian Holt,Ivan Locke,Roman Blair,Bennett Chase,10.7,9.84,10.47,9.58,10.7,20.54,31.01,40.59,1
+6,Aelthoria_Team_B_U18,Men,U18,4x100m_relay,Finals,U18 Continental Championships,03/05/2025,Beckett Milo,Jasper Milo,Jonah Wade,Soren Cole,10.89,9.99,10.57,9.62,10.89,20.88,31.45,41.07,3
+7,Aelthoria_Team_A_U18,Women,U18,4x100m_relay,Finals,U18 Continental Championships,03/05/2025,Ava Bliss,Ivy Jinx,Risa Sloane,Zara Dawn,11.66,11.71,11.44,10.49,11.66,23.37,34.81,45.3,2
+8,Aelthoria_Team_B_U18,Women,U18,4x100m_relay,Finals,U18 Continental Championships,03/05/2025,Bree Cade,Hedi Lila,Jade Kora,Sana Tide,11.91,10.95,11.58,10.63,11.91,22.86,34.44,45.07,3
