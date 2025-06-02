@@ -1,0 +1,17 @@
+﻿id,sex,category,record_status,first_name,last_name,full_name,team,event,result,wind_factor,dob,record_date
+1,Men,U15,Current,Tristan,Bolt,Tristan Bolt,Aelthoria,100m,11.45,1.8,2006-03-20,2020-09-12
+2,Women,U15,Current,Serena,Swift,Serena Swift,Aelthoria,100m,13.25,1.5,2007-07-10,2021-06-25
+3,Men,U18,Current,Malik,Racer,Malik Racer,Aelthoria,100m,10.59,0.9,2002-04-05,2019-08-03
+4,Women,U18,Current,Zara,Flynn,Zara Flynn,Aelthoria,100m,11.85,1.2,2005-01-15,2022-11-17
+5,Men,U20,Current,Jaden,Storm,Jaden Storm,Aelthoria,100m,10.46,1.6,1999-09-25,2018-04-29
+6,Women,U20,Current,Lila,Dash,Lila Dash,Aelthoria,100m,11.45,1.9,2001-11-03,2020-02-14
+7,Men,Open,Current,Kieran,Blaze,Kieran Blaze,Aelthoria,100m,10.2,1.4,1994-02-14,2021-12-08
+8,Women,Open,Current,Nia,Vortex,Nia Vortex,Aelthoria,100m,11.15,1.7,1990-06-22,2019-03-22
+1,Men,U15,Current,,,,Aelthoria_Team_U15,4x100m,44.9,1.8,,2020-09-12
+2,Women,U15,Current,,,,Aelthoria_Team_U15,4x100m,52.9,1.5,,2021-06-25
+3,Men,U18,Current,,,,Aelthoria_Team_U18,4x100m,41.28,0.9,,2019-08-03
+4,Women,U18,Current,,,,Aelthoria_Team_U18,4x100m,50.9,1.2,,2022-11-17
+5,Men,U20,Current,,,,Aelthoria_Team_U20,4x100m,40.9,1.6,,2018-04-29
+6,Women,U20,Current,,,,Aelthoria_Team_U20,4x100m,49.2,1.9,,2020-02-14
+7,Men,Open,Current,,,,Aelthoria_Team_Open,4x100m,39.5,1.4,,2021-12-08
+8,Women,Open,Current,,,,Aelthoria_Team_Open,4x100m,46.29,1.7,,2019-03-22
